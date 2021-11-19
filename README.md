@@ -1,4 +1,4 @@
-### Hi Buddy👋 I'm Rasyid, Your friendly friend 😁
+### Hi Buddy👋 I'm Rasyid, Your friendly partner 😁
 
 ## I'm Developer, Programmer, Tech Enthusiast, and Dreamer! 🧑🏽‍💻 👨🏽‍💻
 - Currently developing myself everyday to be a better developer 🚴🏾‍♀️ 🏋🏽‍♂️ 
