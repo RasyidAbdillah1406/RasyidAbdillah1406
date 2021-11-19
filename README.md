@@ -1,5 +1,5 @@
 ## Hi Buddy👋 I'm Rasyid, Your friendly partner 😁
-- I've Involved in many projects with people with different background for the last 4 years
+- I've Involved in many projects with people with different background
 
 ## I'm Developer, Programmer, Tech Enthusiast, and Dreamer! 🧑🏻‍💻 👨🏻‍💻
 - Currently developing myself everyday to be a better developer 🚴🏾‍♀️ 🏋🏽‍♂️ 
