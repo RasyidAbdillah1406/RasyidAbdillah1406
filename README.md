@@ -13,3 +13,5 @@
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/color/50/000000/javascript.png">
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/ios/50/000000/php.png"/>
+<img align="left" alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" alt="Visual Studio Code" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
