@@ -7,4 +7,4 @@
 - Feel free to contact me 📞📲✉️
 
 ## Programming and Tools use
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png">]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png">
