@@ -11,3 +11,4 @@
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/color/50/000000/python.png">
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/color/50/000000/javascript.png">
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+<img align="left" alt="Visual Studio Code" src="https://img.icons8.com/ios/50/000000/php.png"/>
