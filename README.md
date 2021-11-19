@@ -1,10 +1,10 @@
 ## Hi Buddy👋 I'm Rasyid, Your friendly partner 😁
 - I've Involved in many projects with people with different background for the last 4 years
 
-## I'm Developer, Programmer, Tech Enthusiast, and Dreamer! 🧑🏽‍💻 👨🏽‍💻
+## I'm Developer, Programmer, Tech Enthusiast, and Dreamer! 🧑🏻‍💻 👨🏻‍💻
 - Currently developing myself everyday to be a better developer 🚴🏾‍♀️ 🏋🏽‍♂️ 
 - Improving programming skills all the time 📈 
-- Looking for collaboration in the future 👐🏽 
+- Looking for collaboration in the future 👐🏻
 - Feel free to contact me 📞📲✉️
 
 ## Programming and Tools use
