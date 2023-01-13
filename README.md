@@ -3,7 +3,7 @@
 
 ## I'm Developer, Programmer, Tech Enthusiast, and Dreamer! 🧑🏻‍💻
 - Currently developing myself everyday to be a better developer 🚴🏾‍♀️ 🏋🏽‍♂️ 
-- Improving programming skills all the time 📈 
+- Improving programming skills everyday 📈 
 - Looking for collaboration in the future 👐🏻
 - Feel free to contact me 📞📲✉️
 
