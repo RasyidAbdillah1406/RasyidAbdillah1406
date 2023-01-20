@@ -1,4 +1,4 @@
-## Hi Mate!👋 Rasyid here, Your friendly partner 😁
+## Hi Mate!👋 Rasyid is here, Your friendly partner 😁
 - I've Involved in many projects with people from different background
 
 ## Developer, Programmer, Tech Enthusiast, and Dreamer! 🧑🏻‍💻
