@@ -1,9 +1,8 @@
 ## Hi Mate!👋 Rasyid is here, Your friendly partner 😁
-- I've Involved in many projects with people from different background
+- Thank you for visiting my github profile!
 
 ## Developer, Programmer, Tech Enthusiast, and Dreamer! 🧑🏻‍💻
 - Currently developing myself everyday to be a better developer 🚴🏾‍♀️ 🏋🏽‍♂️ 
-- Improving programming skills everyday 📈 
 - Looking for collaboration in the future 👐🏻
 - Feel free to contact me 📞📲✉️
 
