@@ -1,4 +1,4 @@
-## Hi Mate!👋 I am Rasyid as my friends call me and its your friendly partner 😁
+## Hi Mate!👋 I am Rasyid, Your friendly partner 😁
 - Congratulations! You found my github profile. Here's the gift for you 🎁
 
 ## What's my uniqueness
