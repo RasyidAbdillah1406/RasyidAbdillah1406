@@ -1,10 +1,10 @@
-## Hi Mate!👋 Rasyid is here, Your friendly partner 😁
-- Thank you for visiting my github profile!
+## Hi Mate!👋 I am Rasyid, Your friendly partner 😁
+- Congratulations! You found my github profile. Here's the gift for you 🎁
 
 ## Developer, Programmer, Tech Enthusiast, and Dreamer! 🧑🏻‍💻
-- Currently developing myself everyday to be a better developer 🚴🏾‍♀️ 🏋🏽‍♂️ 
-- Looking for collaboration in the future 👐🏻
-- Feel free to contact me 📞📲✉️
+- Always learning, always curious, always investing(in education) for benefits of humankind 🚴🏾‍♀️ 🏋🏽‍♂️ 
+- Collaboration are welcome 👐🏻
+- Contacting me is free of charge 📞📲✉️
 
 ## Programming and Tools I ever used
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png">
