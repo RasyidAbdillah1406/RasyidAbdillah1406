@@ -16,3 +16,6 @@
 <img align="left" alt="MySQL" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 <img align="left" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+
+## What's my uniqueness
+I do coding, audit programming, linuxing, databasing and another IT Technical stuff before the discovery of chatGPT automation
