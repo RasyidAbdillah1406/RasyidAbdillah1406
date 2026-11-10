@@ -1,7 +1,10 @@
-## Hi Mate!👋 I am Rasyid, Your friendly partner 😁
+## Hi Mate!👋 I am Rasyid as my friends call me and its your friendly partner 😁
 - Congratulations! You found my github profile. Here's the gift for you 🎁
 
-## Developer, Programmer, Tech Enthusiast, and Dreamer! 🧑🏻‍💻
+## What's my uniqueness
+I start doing programming, audit code, linuxing, databasing and another IT Technical stuff before the discovery of chatGPT, Gemini, Grok, Qwen automation
+
+## I am Developer, Programmer, Tech Enthusiast, and Dreamer! 🧑🏻‍💻
 - Always learning, always curious, always investing(in education) for benefits of humankind 🚴🏾‍♀️ 🏋🏽‍♂️ 
 - Collaboration are welcome 👐🏻
 - Contacting me is free of charge 📞📲✉️
@@ -16,6 +19,3 @@
 <img align="left" alt="MySQL" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 <img align="left" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-
-## What's my uniqueness
-I do coding, audit programming, linuxing, databasing and another IT Technical stuff before the discovery of chatGPT automation
