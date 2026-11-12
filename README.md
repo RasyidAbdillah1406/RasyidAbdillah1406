@@ -5,7 +5,7 @@
 I start doing programming, audit code, linuxing, databasing and another IT Technical stuff before the establishment of chatGPT, Gemini, Grok, Qwen and whatever automation tools out there
 
 ## I am Developer, Programmer, Tech Enthusiast, and Dreamer! 🧑🏻‍💻
-- Always learning, always curious, always investing(in education) for benefits of humankind 🚴🏾‍♀️ 🏋🏽‍♂️ 
+- Constantly learning, Continuously curious, Endlessly investing(in education) for benefits of humankind 🚴🏾‍♀️ 🏋🏽‍♂️ 
 - Collaboration are welcome 👐🏻
 - Contacting me is free of charge 📞📲✉️
 
