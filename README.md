@@ -9,6 +9,11 @@ I start doing programming, audit code, linuxing, databasing and another IT Techn
 - Collaboration are welcome 👐🏻
 - Contacting me is free of charge 📞📲✉️
 
+## Frequent questions being aksed❓
+- Are you working with a secret agency and partner with perry the platypus? **Answer**: I don't work for him as I highly respect Dr Doofersmitz for his tremendous research development 
+- Can you fix my printer? **Answer**: Printer is more to hardware stuff and I am more to software. I'll fix printer but the risk is yours
+- Coffee or pure Espresso? **Answer**: Can't tell, I follow my brain for whatever it choose daily
+
 ## Programming and Tools I ever used
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png">
 <img align="left" alt="Python" src="https://img.icons8.com/color/50/000000/python.png">
@@ -20,7 +25,3 @@ I start doing programming, audit code, linuxing, databasing and another IT Techn
 <img align="left" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 
-## Frequent questions being aksed❓
-- Are you working with a secret agency and partner with perry the platypus? **Answer**: I don't work for him as I highly respect Dr Doofersmitz for his tremendous research development 
-- Can you fix my printer? **Answer**: Printer is more to hardware stuff and I am more to software. I'll fix printer but the risk is yours
-- Coffee or pure Espresso? **Answer**: Can't tell, I follow my brain for whatever it choose daily
