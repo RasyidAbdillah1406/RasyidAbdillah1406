@@ -2,7 +2,7 @@
 - Congratulations! You found my github profile. Here's the gift for you 🎁
 
 ## What's my uniqueness
-I start doing programming, audit code, linuxing, databasing and another IT Technical stuff before the discovery of chatGPT, Gemini, Grok, Qwen automation
+I start doing programming, audit code, linuxing, databasing and another IT Technical stuff before the establishment of chatGPT, Gemini, Grok, Qwen automation
 
 ## I am Developer, Programmer, Tech Enthusiast, and Dreamer! 🧑🏻‍💻
 - Always learning, always curious, always investing(in education) for benefits of humankind 🚴🏾‍♀️ 🏋🏽‍♂️ 
